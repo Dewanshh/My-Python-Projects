@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[14]:
+# Customer Feedback Analysis
 
 
 from deepface import DeepFace
@@ -84,8 +81,6 @@ elif sentiment > 0:
 else:
     print('   The review is  : negative')
 
-
-# In[ ]:
 
 
 
